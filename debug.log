@@ -1,0 +1,44 @@
+[0502/130511.854:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0502/130511.875:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0502/130511.878:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0502/130513.643:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0502/130751.682:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0502/130751.697:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0502/130751.700:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0502/130753.400:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0503/115926.320:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0503/115926.416:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0503/115926.418:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0503/115927.614:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0503/132703.166:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0503/132703.175:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0503/132703.177:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0503/132704.346:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0503/211241.500:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0503/211241.505:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0503/211241.515:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0503/211242.362:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0504/170509.472:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0504/170509.479:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0504/170509.481:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0504/170510.607:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0505/120521.131:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0505/120521.198:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0505/120521.200:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0505/120522.322:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0505/141330.873:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0505/141330.935:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0505/141330.939:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0505/141332.395:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0506/233549.158:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0506/233549.173:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0506/233549.175:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0506/233550.558:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0507/230042.721:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0507/230042.721:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0507/230042.736:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0507/230044.377:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0507/234751.904:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0507/234751.917:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0507/234751.919:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Accès refusé. (0x5)
+[0507/234752.527:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured

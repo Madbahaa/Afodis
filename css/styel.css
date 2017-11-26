@@ -1,0 +1,183 @@
+body {
+  font-family: "Droid sans"; }
+
+.scroll {
+  height: 400px;
+  background: pink; }
+
+.center {
+  text-align: center; }
+
+.pink {
+  text-align: center;
+  background: pink;
+  height: 200px;
+  border: 1px solid red; }
+
+.seper {
+  height: 150px; }
+
+.navigation-container {
+  height: 90px;
+  background: #fdc23e;
+  position: fixed;
+  width: 100%;
+  z-index: 5; }
+
+.logo {
+  height: 70px;
+  width: 70px;
+  margin-top: 10px;
+  background-image: url(../img/afodis.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  float: left;
+  margin-left: 50px; }
+
+.burger {
+  height: 30px;
+  width: 30px;
+  background: url(../img/burger.png);
+  background-size: cover;
+  position: absolute;
+  top: 30px;
+  right: 50px;
+  z-index: 6;
+  display: none; }
+
+.navigation-bar {
+  margin-right: 80px;
+  text-decoration: none;
+  float: right;
+  line-height: 90px;
+  list-style: none;
+  display: block; }
+  .navigation-bar a {
+    margin-left: 50px;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    color: #274555; }
+    .navigation-bar a:hover {
+      color: #ff7761;
+      text-decoration: none; }
+
+.clear {
+  clear: both; }
+
+.header {
+  height: 640px;
+  background-image: url(../img/header.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 0; }
+  .header .mask {
+    margin: 0 auto;
+    background: rgba(39, 69, 85, 0.7);
+    height: 640px; }
+
+.big-title {
+  padding-top: 270px; }
+
+.title {
+  margin: 0;
+  color: #ff7761;
+  text-transform: uppercase;
+  font-size: 50px;
+  font-weight: 700; }
+
+.call-to-action {
+  border-radius: 25px;
+  margin-left: 16px;
+  margin-top: 25px;
+  height: 40px;
+  background: #f9a11b;
+  text-align: center; }
+  .call-to-action a {
+    text-decoration: none; }
+    .call-to-action a h5 {
+      margin: 0;
+      font-size: 18px;
+      line-height: 40px;
+      font-weight: 700; }
+    .call-to-action a:hover {
+      color: white; }
+
+.sub-title {
+  color: #ccc;
+  font-size: 18px;
+  font-weight: normal;
+  margin-top: 10px; }
+
+.info-section {
+  padding-top: 20px;
+  padding-bottom: 140px;
+  height: auto;
+  background: #fff; }
+
+.glf-size {
+  margin-top: 35px;
+  font-size: 48px;
+  color: #274555; }
+
+.card {
+  width: auto; }
+
+.info-tag {
+  font-weight: 700;
+  font-size: 17px;
+  color: #ff7761; }
+
+.footer {
+  height: 90px;
+  background: #274555;
+  color: #f9a11b;
+  text-align: center; }
+  .footer h5 {
+    line-height: 90px;
+    margin: 0; }
+
+@media screen and (max-width: 830px) {
+  body .burger {
+    display: block; }
+  body .navigation-bar {
+    display: none; } }
+.gutter-top {
+  margin-top: 15px; }
+
+.info-produits {
+  text-align: center;
+  padding: 30px 0; }
+  .info-produits h4 {
+    color: #f9a11b;
+    font-size: 20px;
+    font-weight: 700; }
+
+.list-produits {
+  text-align: center;
+  padding: 40px 0; }
+
+.contact {
+  padding: 100px 15px;
+  color: #274555; }
+
+.contact-title {
+  margin: 40px 0;
+  font-size: 18px;
+  font-weight: 700;
+  color: #f9a11b; }
+
+#map {
+  width: contain;
+  height: 500px;
+  margin-bottom: 50px; }
+
+.map-border {
+  border: 2px solid #274555; }
+
+.map-padding {
+  padding: 0 10px; }
+
+/*# sourceMappingURL=styel.css.map */
